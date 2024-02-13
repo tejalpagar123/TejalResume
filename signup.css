@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+#first{
+  color: red;
+}
+first::placeholder{
+  color: blue;
+}
